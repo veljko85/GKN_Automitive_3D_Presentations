@@ -1,0 +1,144 @@
+{
+  "name": "GKN 3D Presentation",
+  "short_name": "GKN 3D",
+  "description": "Interactive 3D presentation of GKN automotive components and differential systems",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a1a1a",
+  "orientation": "any",
+  "scope": "./",
+  "lang": "en",
+  "categories": ["education", "automotive", "technology"],
+  "icons": [
+    {
+      "src": "./Icon.png",
+      "sizes": "150x150",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+
+  "shortcuts": [
+    {
+      "name": "Main Page",
+      "short_name": "Home",
+      "description": "View all differential components",
+      "url": "./index.html",
+      "icons": [
+        {
+          "src": "./Icon.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "ASLSD Differential",
+      "short_name": "ASLSD",
+      "description": "View ASLSD differential components",
+      "url": "./aslsd.html",
+      "icons": [
+        {
+          "src": "./Icon.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "DO3 Differential",
+      "short_name": "DO3",
+      "description": "View DO3 differential components",
+      "url": "./do3.html",
+      "icons": [
+        {
+          "src": "./Icon.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "EDD Differential",
+      "short_name": "EDD",
+      "description": "View EDD differential components",
+      "url": "./edd.html",
+      "icons": [
+        {
+          "src": "./Icon.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "EDL Differential",
+      "short_name": "EDL",
+      "description": "View EDL differential components",
+      "url": "./edl.html",
+      "icons": [
+        {
+          "src": "./Icon.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "ETM Differential",
+      "short_name": "ETM",
+      "description": "View ETM differential components",
+      "url": "./etm.html",
+      "icons": [
+        {
+          "src": "./Icon.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Open Differential",
+      "short_name": "Open Diff",
+      "description": "View open differential components",
+      "url": "./openDifferential.html",
+      "icons": [
+        {
+          "src": "./Icon.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "RDO Differential",
+      "short_name": "RDO",
+      "description": "View RDO differential components",
+      "url": "./rdo.html",
+      "icons": [
+        {
+          "src": "./Icon.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "RX8 Differential",
+      "short_name": "RX8",
+      "description": "View RX8 differential components",
+      "url": "./rx8.html",
+      "icons": [
+        {
+          "src": "./Icon.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "SX8 Assembly",
+      "short_name": "SX8",
+      "description": "View SX8 assembly components",
+      "url": "./sx8_asm.html",
+      "icons": [
+        {
+          "src": "./Icon.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+} 
